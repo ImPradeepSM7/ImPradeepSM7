@@ -1,0 +1,309 @@
+Python:
+---------
+
+Developer   QA
+
+Backend:python, Frameworks- Django, flask
+UI     : Html, Css, Javascript, Bootstrap
+Database:
+Git
+scrum
+
+
+
+
+For web development mainly 3 things plays a key role.
+
+1. FRONTEND : HTML, CSS, Java Script, Bootstrap (USER INTERFACE)
+
+2. BACKEND : Programming languages - Python
+             Frameworks  - Django, flask, fastapi
+
+3. DATABASE: RELATIONAL DATABASE- Mysql, Postgresql, oracle    Data stored in table format
+             NO RELATIONAL DATABASE - MONGODB, CASSANDRA       Data stored in json format
+		cloud database - aws(amazon web services)  
+
+
+For Testing role includes:
+1. core python
+2. concepts of  manual, automation
+
+
+A document which can be displayed in a web browser such as Firefox, Google Chrome,
+Opera, Microsoft Internet Explorer or Edge, or Apple's Safari. These are also
+often called just "pages."
+
+website
+
+A collection of web pages which are grouped together and usually connected
+together in various ways. Often called a "web site" or a "site."
+
+web server
+A computer that hosts a website on the Internet.
+
+Web Development
+
+Web development refers to the building, creating, and maintaining of websites.
+It includes aspects such as
+
+1.web design
+
+    - architecture,outlook it refers to the design of websites that
+    are displayed on the internet.
+
+2.web publishing
+
+    - Web publishing is the process of publishing original content
+    on the Internet.
+
+3.web programming
+
+    - Web programming refers to the writing, markup and coding
+    involved in Web development,which includes Web content, Web client and server
+    scripting and network security
+
+4.database management.
+
+    It is the creation of an application that works over the internet i.e. websites.
+The word Web Development is made up of two words, that is:
+
+Web: It refers to websites, web pages or anything that works over the internet.
+Development: Building the application from scratch.
+
+
+Web Development can be classified into two ways:
+
+1.Frontend Development - HTML, CSS, JS,
+2.Backend Development  - JAVA, PYTHON, PHP, GOLANG
+3.Database (storage, persistance)-Mysql, postgresql, oracle, mongodb
+
+Frontend Development:
+The part of a website that the user interacts directly is termed as front end.
+It is also referred to as the ‘client side’ of the application.
+
+Frontend Roadmap:Frontend Development Roadmap
+1.HTML:
+HTML stands for HyperText Markup Language. It is used to design the
+front end portion of web pages using markup language. It acts as a skeleton for
+a website since it is used to make the structure of a website.
+2.CSS:
+Cascading Style Sheets fondly referred to as CSS is a simply designed
+language intended to simplify the process of making web pages presentable.
+It is used to style our website.
+3.JavaScript:
+JavaScript is a scripting language used to provide a dynamic behavior to our 
+website.
+4.Bootstrap:
+Bootstrap is a free and open-source tool collection for creating responsive websites
+and web applications. It is the most popular CSS framework for developing responsive,
+mobile-first websites. Nowadays, the websites are perfect for all the browsers
+(IE, Firefox, and Chrome) and for all sizes of screens (Desktop, Tablets, Phablets,
+and Phones).
+Bootstrap 4
+Bootstrap 5
+Frontend Frameworks and Libraries:
+
+AngularJS
+React.js
+VueJS
+jQuery
+Bootstrap
+Material UI
+Tailwind CSS
+jQuery UI
+Some other libraries and frameworks are: Handlebar.js Backbone.js, Ember.js etc.
+
+
+Backend Development:
+Backend is the server side of a website. It is the part of the website that
+users cannot see and interact. It is the portion of software that does not come
+in direct contact with the users. It is used to store and arrange data.
+
+Backend Roadmap:Backend Design roadmap
+PHP:
+PHP is a server-side scripting language designed specifically for web development.
+Java:
+    Java is one of the most popular and widely used programming language.
+    It is highly scalable.
+Python:
+    Python is a programming language that lets you work quickly and integrate systems
+    more efficiently.
+Node.js:
+    Node.js is an open source and cross-platform runtime environment for executing
+    JavaScript code outside a browser.
+
+Back End Frameworks:
+The list of back end frameworks are:
+
+Django,Flask,fastapi,
+pyramid,
+Express,
+Rails,
+Laravel,
+Spring, etc.
+
+
+Database management system:
+1. Relational- mysql, postgresql, oracle, maria db, PL/sql  - table
+2. Norelational database - mongodb, cassandra - json format
+3. cloud database- AWS, oracle clouddb - object, file, block
+
+What is Data?
+Data is a collection of a distinct small unit of information. It can be used in
+a variety of forms like text, numbers, media, bytes, etc. it can be stored in
+pieces of paper or electronic memory, etc.
+
+What is Database?
+A database is an organized collection of data, so that it can be easily accessed
+and managed.
+
+
+signup:
+username:
+password:
+
+signin:  fronden
+after succesful validation will enters into dashboard
+
+
+You can organize data into tables, rows, columns, and index it to make it
+easier to find relevant information.
+Database handlers create a database in such a way that only one set of software
+program provides access of data to all the users.
+
+The main purpose of the database is to operate a large amount of information
+by storing, retrieving, and managing data.
+
+There are many dynamic websites on the World Wide Web nowadays which are handled
+through databases.
+
+
+There are many databases available like
+MySQL, Sybase, Oracle, MongoDB, Informix, PostgreSQL, SQL Server, PL/SQLetc.
+
+Modern databases are managed by the database management system (DBMS).
+
+SQL or Structured Query Language is used to operate on the data stored in a database.
+SQL depends on relational database
+
+Relational database model has two main terminologies called instance and schema.
+
+The instance is a table with rows or columns
+
+Schema specifies the structure like name of the relation,
+type of each column and name.
+
+This model uses some mathematical concept like set theory and predicate logic.
+
+
+The first internet database application had been created in 1995.
+
+During the era of the relational database, many more models had introduced like object-oriented model, object-relational model, etc.
+
+Cloud database
+Cloud database facilitates you to store, manage, and retrieve their structured,
+unstructured data via a cloud platform. This data is accessible over the Internet.
+Cloud databases are also called a database as service (DBaaS) because they are
+offered as a managed service.
+
+Some best cloud options are:
+
+AWS (Amazon Web Services)
+Snowflake Computing
+Oracle Database Cloud Services
+Microsoft SQL server
+Google cloud spanner
+
+
+Advantages of cloud database
+
+1.Lower costs
+2.Generally, company provider does not have to invest in databases.
+    It can maintain and support one or more data centers.
+3.Automated
+4.Cloud databases are enriched with a variety of automated processes such as
+    recovery, failover, and auto-scaling.
+5.Increased accessibility
+6.You can access your cloud-based database from any location, anytime.
+All you need is just an internet connection.
+
+NoSQL Database NORELATIONAL database
+
+A NoSQL database is an approach to design such databases that can accommodate
+a wide variety of data models. NoSQL stands for "not only SQL."
+It is an alternative to traditional relational databases in which data is placed
+in tables, and data schema is perfectly designed before the database is built.
+    NoSQL databases are useful for a large set of distributed data.
+    Some examples of NoSQL database system with their category are:
+        MongoDB, cassandra,CouchDB, Cloudant (Document-based)
+        Memcached, Redis, Coherence (key-value store)
+        HBase, Big Table, Accumulo (Tabular)
+
+Advantage of NoSQL
+    1.High Scalability
+    2.NoSQL can handle an extensive amount of data because of scalability.
+    3.If the data grows, NoSQL database scale it to handle that data in an efficient
+    manner.
+    4.High Availability
+    5.NoSQL supports auto replication. Auto replication makes it highly available because, in case of any failure, data replicates itself to the previous consistent state.
+
+Disadvantage of NoSQL
+1.Open source
+2.NoSQL is an open-source database, so there is no reliable standard for NoSQL yet.
+3.Management challenge
+4.Data management in NoSQL is much more complicated than relational databases.
+    It is very challenging to install and even more hectic to manage daily.
+5.GUI is not available
+6.GUI tools for NoSQL database are not easily available in the market.
+
+Backup
+Backup is a great weak point for NoSQL databases. Some databases, like MongoDB,
+have no powerful approaches for data backup.
+
+
+
+Graph Databases
+A graph database is a NoSQL database. It is a graphical representation of data.
+It contains nodes and edges. A node represents an entity, and each edge represents
+a relationship between two edges. Every node in a graph database represents a unique
+identifier.
+
+Graph databases are beneficial for searching the relationship between data because they highlight the relationship between relevant data.
+
+
+
+DBMS (Data Base Management System)
+Database management System is software which is used to store and retrieve the database.
+For example, Oracle, MySQL, etc.; these are some popular DBMS tools.
+
+DBMS provides the interface to perform the various operations like 
+creation, deletion,
+modification, etc.
+DBMS allows the user to create their databases as per their requirement.
+DBMS accepts the request from the application and provides specific data through
+the operating system.
+DBMS contains the group of programs which acts according to the user instruction.
+It provides security to the database.
+
+Advantage of DBMS
+
+1.Controls redundancy
+2.It stores all the data in a single database file, so it can control data redundancy.
+3.Data sharing
+4.An authorized user can share the data among multiple users.
+5.It providesBackup and recovery subsystem. This recovery system creates automatic
+data from system failure and restores data if required.
+6.Multiple user interfaces
+7.It provides a different type of user interfaces like GUI, application interfaces.
+
+Disadvantage of DBMS
+1.Size
+2.It occupies large disk space and large memory to run efficiently.
+3.Cost
+4.DBMS requires a high-speed data processor and larger memory to run DBMS software, so it is costly.
+5.Complexity
+6.DBMS creates additional complexity and requirements.
+
+
+
+

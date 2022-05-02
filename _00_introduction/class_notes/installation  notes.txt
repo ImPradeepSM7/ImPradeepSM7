@@ -1,0 +1,84 @@
+installations:
+
+
+For documentation and steps  python:
+
+https://phoenixnap.com/kb/how-to-install-python-3-windows
+
+
+
+for python:
+
+https://www.python.org/downloads/
+
+1. cmd
+2. IDLE
+3. IDE- pycharm , vs code, eclipse, jupyter
+
+
+To check installation successful or not:
+
+open cmd(command prompt)
+run python --version
+
+
+To install pycharm(community version):
+
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+
+
+For documentation and steps for pycharm:
+
+https://intellipaat.com/blog/tutorial/pycharm-tutorial/pycharm-installation/
+
+
+
+for HTML, CSS, JS:
+
+https://www.w3schools.com/html/html_examples.asp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+3+ years   6months, support role projects, python , frameworks,1years,6 -------- 7.5   ------10 - 12 lpa
+
+search, analyse, implement,  communication, 
+
+level 5 mnc -  laptop 1 month
+proect -  reporting  1 month
+allocate - git, KT - 15 days - flask, django - 
+3+  2 weeks
+
+
+existing:  enhanements,  jira, azure devops, 
+
+
+
+
+
+
+
+
+
+

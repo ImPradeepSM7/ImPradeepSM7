@@ -1,0 +1,103 @@
+what is python ?
+x= 10
+prnt(type(x)
+def sum():
+    pass
+class Employee():
+    pass
+
+In java or C  you have declare data type
+in python no need to declare data type
+
+
+Python is an interpreted, object-oriented, high-level programming language .
+Its high-level built in data structures, combined with dynamic typing and dynamic binding, 
+make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language 
+to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and 
+therefore reduces the cost of program maintenance. 
+
+Python supports modules and packages, which encourages program modularity and code reuse. 
+The Python interpreter and the extensive standard library are available in source or binary form 
+without charge for all major platforms, and can be freely distributed.
+
+Often, programmers fall in love with Python because of the increased productivity it provides. 
+Since there is no compilation step, the edit-test-debug cycle is incredibly fast. 
+Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. 
+Instead, when the interpreter discovers an error, it raises an exception. 
+
+When the program doesn't catch the exception, the interpreter prints a stack trace. 
+A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, 
+setting breakpoints, stepping through the code a line at a time, and so on. 
+
+The debugger is written in Python itself, testifying to Python's introspective power. 
+On the other hand, often the quickest way to debug a program is to add a few print statements to the source: 
+the fast edit-test-debug cycle makes this simple approach very effective.
+
+what is PERL ?
+
+PERL -  practical extraction and report language  
+
+Perl is a general purpose, high level interpreted and dynamic programming language. 
+It was developed by Larry Wall, in 1987. Perl was originally developed for the text 
+processing like extracting the required information from a specified text file and 
+for converting the text file into a different form. Perl supports both the procedural 
+and Object-Oriented programming. 
+
+Perl is a lot similar to C syntactically and is easy for the users who have knowledge of C, C++.
+
+Compiler - 
+
+A compiler is a program that processes statements written in a particular programming language 
+and turns them into machine language or "code" that a computer's processor uses. 
+
+      programming language code ------>  compiler ------>  intermediate object ---->  Machine language code
+
+
+
+
+Interpreter -
+
+An interpreter is a computer program that is used to directly execute program instructions written 
+using one of the many high-level programming languages.
+
+The compiler transforms the high-level program into an intermediate language that it then executes,
+or it could parse the high-level source code and then performs the commands directly, 
+which is done line by line or statement by statement.
+
+
+Humans can only understand high-level languages, which are called source code. 
+Computers, on the other hand, can only understand programs written in binary languages,
+so either an interpreter or compiler is required.
+
+Programming languages are implemented in two ways: interpretation and compilation. 
+
+An interpreter transforms or interprets a high-level programming code into code that can be understood by the machine (machine code) 
+or into an intermediate language that can be easily executed as well.
+
+The interpreter reads each statement of code and then converts or executes it directly. 
+
+
+A compiler converts a high-level source code into native (compiled) code that can be executed directly 
+by the operating system (e.g. by creating a .exe program).
+
+
+Both compilers and interpreters have their advantages and disadvantages and are not mutually exclusive; 
+this means that they can be used in conjunction as most integrated development environments employ both 
+compilation and translation for some high-level languages.
+
+In most cases, a compiler is preferable since its output runs much faster compared to a line-by-line interpretation. 
+Rather than scanning the whole program and translating it into machine code like a compiler does, 
+the interpreter translates code one statement at a time.
+
+While the time to analyze source code is reduced, especially a particularly large one, 
+execution time for an interpreter is comparatively slower than a compiler. On top of that, 
+since interpretation happens per line or statement, it can be stopped in the middle of execution 
+to allow for either code modification or debugging.
+
+Compilers must generate intermediate object code that requires more memory to be linked, 
+contrarily to interpreters which tend to use memory more efficiently.
+
+Since an interpreter reads and then executes code in a single process, 
+it very useful for scripting and other small programs. As such, 
+it is commonly installed on Web servers, which run a lot of executable scripts. It is also used during the
+development stage of a program to test small chunks of code one by one rather than having to compile the whole program every time.

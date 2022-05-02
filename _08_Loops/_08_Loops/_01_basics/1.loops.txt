@@ -1,0 +1,44 @@
+Python Loops
+-----------------------
+
+The looping simplifies the complex problems into the easy ones. 
+It enables us to alter the flow of the program so that instead of 
+writing the same code again and again, we can repeat the same code 
+for a finite number of times. 
+
+For example, if we need to print the first 10 natural numbers then, 
+instead of using the print statement 10 times, 
+we can print inside a loop which runs up to 10 iterations.
+
+print(1)
+
+
+print(10)
+Advantages of loops
+There are the following advantages of loops in Python.
+
+
+1.It provides code re-usability.
+2.Using loops, we do not need to write the same code again and again.
+3.Using loops, we can traverse over the elements of data structures (array or linked lists).
+
+
+There are the following loop statements in Python.
+
+1.for loop
+-------------------------
+The for loop is used in the case where we need to execute some part of the code 
+until the given condition is satisfied. 
+It is better to use for loop if the number of iteration is known in advance.
+
+2.while loop
+-----------------------
+The while loop is to be used in the scenario where we don't know the number of iterations in advance. 
+The block of statements is executed in the while loop until the condition specified in the while loop is satisfied. 
+It is also called a pre-tested loop.
+
+3.do-while loop	
+------------------------
+The do-while loop continues until a given condition satisfies. 
+It is also called post tested loop. It is used when it is necessary to execute 
+the loop at least once (mostly menu driven programs).
